@@ -1,0 +1,13 @@
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.exe
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.deps.json
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.runtimeconfig.json
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.runtimeconfig.dev.json
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.dll
+C:\Users\My Build\source\repos\Quadax\Quadax\bin\Debug\netcoreapp3.1\Quadax.pdb
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.csprojAssemblyReference.cache
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.AssemblyInfoInputs.cache
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.AssemblyInfo.cs
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.csproj.CoreCompileInputs.cache
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.dll
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.pdb
+C:\Users\My Build\source\repos\Quadax\Quadax\obj\Debug\netcoreapp3.1\Quadax.genruntimeconfig.cache
